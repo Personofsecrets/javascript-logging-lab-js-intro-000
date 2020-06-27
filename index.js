@@ -1,3 +1,3 @@
 console.error(123)
-Console.log(456)
-Console.warn(789)
+console.log(123)
+console.warn(123)
